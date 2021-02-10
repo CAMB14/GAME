@@ -6,10 +6,9 @@ You will gain two points if your answer is right ✔, on the other hand, you los
 
 Preview App:
 
-Landing Page:
+
 <img src="screen1.png" width="100">
 
-Game:
 <img src="screen2.png" width="100">
 
 <img src="screen3.png" width="100">
